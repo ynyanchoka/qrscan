@@ -18,13 +18,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 - Desktop
 
-![](/qrscan/images/Screenshot%202023-02-03%20at%2013.20.04.png)
+![](/images/Screenshot%202023-02-03%20at%2013.20.04.png)
 
 - Mobile 
 ![](/qrscan/images/Screenshot%202023-02-03%20at%2013.20.39.png)
 
+![Screenshot](/qrscan/images/Screenshot%202023-02-03%20at%2013.20.04.png)
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+
 
 ### Links
 
@@ -40,25 +41,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- Bootsrap
+- Bootstrap
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
 - Website - [Ymelda Monari](https://www.your-site.com)
 - Frontend Mentor - [@ynyanchoka](https://www.frontendmentor.io/profile/@ynyanchoka)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
