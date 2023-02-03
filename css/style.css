@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+
+}
+.container-fluid{
+    background-color:  hsl(212, 45%, 89%);
+    min-height: 100vh;
+ 
+
+    
+}
+
+.card{
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    /* background-color: hsl(0, 0%, 100%); */
+    box-shadow: 0 4px 8px 0,hsl(212, 45%, 89%), 0 6px 20px 0  ;
+    
+}
+
+
+.card-img-top{
+    padding:15px ;
+    border-radius: 25px;
+}
+
+.card h5{
+    font-weight: 700;
+    text-align: center;
+    padding: 15px;
+}
+
+.card-body p{
+    font-weight:400;
+    font-size: 15px;
+    text-align: center;
+    color: #817e7e;
+    
+}
