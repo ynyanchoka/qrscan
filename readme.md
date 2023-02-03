@@ -21,16 +21,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](/images/Screenshot%202023-02-03%20at%2013.20.04.png)
 
 - Mobile 
-![](/qrscan/images/Screenshot%202023-02-03%20at%2013.20.39.png)
+![](/images/Screenshot%202023-02-03%20at%2013.20.39.png)
 
-![Screenshot](/qrscan/images/Screenshot%202023-02-03%20at%2013.20.04.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Link](https://sage-sherbet-85390c.netlify.app/)
 
 ## My process
 
